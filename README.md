@@ -1,0 +1,2 @@
+# Sednumentu.exe
+windows
